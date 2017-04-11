@@ -8,7 +8,7 @@
 
 
 (function($) {
-	var basePath = 'https://github.com/hjdevries001/';
+	var basePath = 'https://hjdevries001.github.io';
     $.fn.raptorize = function(options) {
 
         //Yo' defaults
